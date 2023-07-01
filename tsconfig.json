@@ -12,6 +12,10 @@
     "include": [
         "src"
     ],
+    "types": [
+        "node",
+        "hermione"
+    ],
     "ts-node": {
         "compilerOptions": {
             "module": "CommonJS"
