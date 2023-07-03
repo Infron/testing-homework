@@ -11,8 +11,8 @@ npm run build
 npm start
 
 # для запуска с bug id меньше 4 необходимо дополнительно перезапускать сервер
-BUG_ID=# npm run start
+BUG_ID=id npm run start
 
 # для остальных будет достаточно (но это не точно)
-BUG_ID=# npm run test
+BUG_ID=id npm run test
 ```
